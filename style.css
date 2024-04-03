@@ -1,0 +1,41 @@
+.header {
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0;
+}
+.header__nav {
+
+}
+.header__nav--list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.header__nav-item {
+}
+.header__nav-link {
+}
+.hero__section {
+    background-image: url(./naturebirdforestloveUkraine.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero__section-title {
+padding-top: 100px;
+    color: #FFF;
+text-align: center;
+font-family: "Roboto", sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 900;
+line-height: 60px; /* 136.364% */
+letter-spacing: 2.64px;
+text-transform: uppercase;
+}
